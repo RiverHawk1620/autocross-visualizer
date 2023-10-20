@@ -4,7 +4,7 @@ namespace AutoXDisplay.DAL;
 
 public interface IAutoXReader
 {
-    Task SyncEventResultsFromWebAsync();
+    Task<IEnumerable<RaceResultEntity>> SyncEventResultsFromWebAsync();
     
     //TODO: Implement a function that will use .CSV Uploads
     Task SyncEventResultsFromCsvAsync();

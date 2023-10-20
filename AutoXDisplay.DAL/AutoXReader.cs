@@ -5,13 +5,15 @@ namespace AutoXDisplay.DAL;
 
 public class AutoXReader : IAutoXReader
 {
-    public async Task SyncEventResultsFromWebAsync()
+    public async Task<IEnumerable<RaceResultEntity>> SyncEventResultsFromWebAsync()
     {
         // Create an instance of HttpClient
         using var httpClient = new HttpClient();
         httpClient.Timeout = TimeSpan.FromMinutes(2);
         // Specify the URL
-        var url = "https://www.wmclub.org/wp-content/uploads/2023/08/2023event6results.htm";
+        //var url = "https://www.wmclub.org/wp-content/uploads/2023/08/2023event6results.htm";
+        var url = "https://www.wmclub.org/wp-content/uploads/2023/03/2023event1results.htm"; //78Total
+
         HttpResponseMessage responseMessage = null;
         
         try
@@ -62,11 +64,8 @@ public class AutoXReader : IAutoXReader
                     Diff = columns[^1].InnerText
                 });
         }
-        
-        //TODO: I have all of the data in raceResultEntities, need to:
-        //      1. Write Mappings From Entities to DTOs
-        //      2. Decide where I will store the data
-        //      3. Write the data out to wherever that might be
+
+        return raceResultEntities;
     }
 
     private static List<string> ExtractRunData(List<HtmlNode> columns, int numberOfRuns)

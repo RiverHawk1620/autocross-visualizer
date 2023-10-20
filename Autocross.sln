@@ -1,8 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoXDisplay.DAL", "AutoXDisplay.DAL\AutoXDisplay.DAL.csproj", "{DCC55C14-8ABC-4CA5-87F5-0E98D94AC4CD}"
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoXDisplay.DAL", "AutoXDisplay.DAL\AutoXDisplay.DAL.csproj", "{DCC55C14-8ABC-4CA5-87F5-0E98D94AC4CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoXDisplay.BlazorServerApp", "AutoXDisplay.BlazorServerApp\AutoXDisplay.BlazorServerApp.csproj", "{5B688C67-03F3-4FE2-9276-0EC2D0653062}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoXDisplay.BlazorServerApp", "AutoXDisplay.BlazorServerApp\AutoXDisplay.BlazorServerApp.csproj", "{5B688C67-03F3-4FE2-9276-0EC2D0653062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoXDisplay.Console", "AutoXDisplay.Console\AutoXDisplay.Console.csproj", "{25F52520-AABF-4BA0-AB04-BB026F0A0BC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +23,15 @@ Global
 		{5B688C67-03F3-4FE2-9276-0EC2D0653062}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B688C67-03F3-4FE2-9276-0EC2D0653062}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B688C67-03F3-4FE2-9276-0EC2D0653062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F52520-AABF-4BA0-AB04-BB026F0A0BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F52520-AABF-4BA0-AB04-BB026F0A0BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F52520-AABF-4BA0-AB04-BB026F0A0BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F52520-AABF-4BA0-AB04-BB026F0A0BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8032A71A-45E3-457D-A8AD-108F8644E512}
 	EndGlobalSection
 EndGlobal
