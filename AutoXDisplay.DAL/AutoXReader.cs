@@ -1,8 +1,4 @@
-﻿
-using System;
-using System.Data;
-using System.Net.Http;
-using AutoXDisplay.DAL.Entities;
+﻿using AutoXDisplay.DAL.Entities;
 //using AutoXDisplay.BlazorServerApp.Data.DTO;
 using HtmlAgilityPack;
 namespace AutoXDisplay.DAL;
