@@ -1,0 +1,12 @@
+C:\_programming\AutoXReader\AutoXDisplay.DAL\bin\Debug\net7.0\AutoXDisplay.DAL.deps.json
+C:\_programming\AutoXReader\AutoXDisplay.DAL\bin\Debug\net7.0\AutoXDisplay.DAL.dll
+C:\_programming\AutoXReader\AutoXDisplay.DAL\bin\Debug\net7.0\AutoXDisplay.DAL.pdb
+C:\_programming\AutoXReader\AutoXDisplay.DAL\obj\Debug\net7.0\AutoXDisplay.DAL.csproj.AssemblyReference.cache
+C:\_programming\AutoXReader\AutoXDisplay.DAL\obj\Debug\net7.0\AutoXDisplay.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\_programming\AutoXReader\AutoXDisplay.DAL\obj\Debug\net7.0\AutoXDisplay.DAL.AssemblyInfoInputs.cache
+C:\_programming\AutoXReader\AutoXDisplay.DAL\obj\Debug\net7.0\AutoXDisplay.DAL.AssemblyInfo.cs
+C:\_programming\AutoXReader\AutoXDisplay.DAL\obj\Debug\net7.0\AutoXDisplay.DAL.csproj.CoreCompileInputs.cache
+C:\_programming\AutoXReader\AutoXDisplay.DAL\obj\Debug\net7.0\AutoXDisplay.DAL.dll
+C:\_programming\AutoXReader\AutoXDisplay.DAL\obj\Debug\net7.0\refint\AutoXDisplay.DAL.dll
+C:\_programming\AutoXReader\AutoXDisplay.DAL\obj\Debug\net7.0\AutoXDisplay.DAL.pdb
+C:\_programming\AutoXReader\AutoXDisplay.DAL\obj\Debug\net7.0\ref\AutoXDisplay.DAL.dll

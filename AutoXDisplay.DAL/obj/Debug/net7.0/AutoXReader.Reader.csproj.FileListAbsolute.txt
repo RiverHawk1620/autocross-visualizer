@@ -1,0 +1,12 @@
+C:\_programming\AutoXReader\AutoXReader.Reader\bin\Debug\net7.0\AutoXReader.Reader.deps.json
+C:\_programming\AutoXReader\AutoXReader.Reader\bin\Debug\net7.0\AutoXReader.Reader.dll
+C:\_programming\AutoXReader\AutoXReader.Reader\bin\Debug\net7.0\AutoXReader.Reader.pdb
+C:\_programming\AutoXReader\AutoXReader.Reader\obj\Debug\net7.0\AutoXReader.Reader.csproj.AssemblyReference.cache
+C:\_programming\AutoXReader\AutoXReader.Reader\obj\Debug\net7.0\AutoXReader.Reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\_programming\AutoXReader\AutoXReader.Reader\obj\Debug\net7.0\AutoXReader.Reader.AssemblyInfoInputs.cache
+C:\_programming\AutoXReader\AutoXReader.Reader\obj\Debug\net7.0\AutoXReader.Reader.AssemblyInfo.cs
+C:\_programming\AutoXReader\AutoXReader.Reader\obj\Debug\net7.0\AutoXReader.Reader.csproj.CoreCompileInputs.cache
+C:\_programming\AutoXReader\AutoXReader.Reader\obj\Debug\net7.0\AutoXReader.Reader.dll
+C:\_programming\AutoXReader\AutoXReader.Reader\obj\Debug\net7.0\refint\AutoXReader.Reader.dll
+C:\_programming\AutoXReader\AutoXReader.Reader\obj\Debug\net7.0\AutoXReader.Reader.pdb
+C:\_programming\AutoXReader\AutoXReader.Reader\obj\Debug\net7.0\ref\AutoXReader.Reader.dll

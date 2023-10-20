@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\_programming\\AutoXReader\\AutoXDisplay.BlazorServerApp\\AutoXDisplay.BlazorServerApp.csproj": {}
+  },
+  "projects": {
+    "C:\\_programming\\AutoXReader\\AutoXDisplay.BlazorServerApp\\AutoXDisplay.BlazorServerApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_programming\\AutoXReader\\AutoXDisplay.BlazorServerApp\\AutoXDisplay.BlazorServerApp.csproj",
+        "projectName": "AutoXDisplay.BlazorServerApp",
+        "projectPath": "C:\\_programming\\AutoXReader\\AutoXDisplay.BlazorServerApp\\AutoXDisplay.BlazorServerApp.csproj",
+        "packagesPath": "C:\\Users\\tfor010322\\.nuget\\packages\\",
+        "outputPath": "C:\\_programming\\AutoXReader\\AutoXDisplay.BlazorServerApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tfor010322\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.309\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rscvm-teamcity.rsccorp.radiosys.com/httpAuth/app/nuget/feed/Operations_CLibraries/default/v3/index.json": {},
+          "https://rscvm-teamcity.rsccorp.radiosys.com/httpAuth/app/nuget/feed/RscEnterpriseServices/RscEnterpriseServices/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\_programming\\AutoXReader\\AutoXDisplay.DAL\\AutoXDisplay.DAL.csproj": {
+                "projectPath": "C:\\_programming\\AutoXReader\\AutoXDisplay.DAL\\AutoXDisplay.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.309\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\_programming\\AutoXReader\\AutoXDisplay.DAL\\AutoXDisplay.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\_programming\\AutoXReader\\AutoXDisplay.DAL\\AutoXDisplay.DAL.csproj",
+        "projectName": "AutoXDisplay.DAL",
+        "projectPath": "C:\\_programming\\AutoXReader\\AutoXDisplay.DAL\\AutoXDisplay.DAL.csproj",
+        "packagesPath": "C:\\Users\\tfor010322\\.nuget\\packages\\",
+        "outputPath": "C:\\_programming\\AutoXReader\\AutoXDisplay.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tfor010322\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rscvm-teamcity.rsccorp.radiosys.com/httpAuth/app/nuget/feed/Operations_CLibraries/default/v3/index.json": {},
+          "https://rscvm-teamcity.rsccorp.radiosys.com/httpAuth/app/nuget/feed/RscEnterpriseServices/RscEnterpriseServices/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.52, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.309\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
